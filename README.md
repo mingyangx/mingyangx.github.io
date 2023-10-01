@@ -1,6 +1,7 @@
 # mingyangx.github.io
 
-- Test！.
+- Test！.Git
+
 - Make sure to update all relevant fields in `_config.yml` and `_data`.
 
 # License
