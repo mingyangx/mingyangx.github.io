@@ -23,7 +23,7 @@ name: Mingyang Xie
 position: Ph.D. Student 
 email: mingyang@umd.edu
 description: >-
-  I am a research scientist at [Google](https://ai.google/research/), where I work on photorealistic 3D reconstruction at internet scale.
+  I am a Ph.D student at [Google](https://ai.google/research/), where I work on photorealistic 3D reconstruction at internet scale.
 
 
   Previously, I was a Ph. D student at the [University of Washington](https://grail.cs.washington.edu/) advised by
@@ -32,7 +32,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KeunhongP
-github_username: keunhong
+github_username: mingyangx
 google_scholar: HVZb-5oAAAAJ
 google_analytics: G-MFWSBLRKG0
 
