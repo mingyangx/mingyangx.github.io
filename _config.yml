@@ -23,18 +23,18 @@ name: Mingyang Xie
 position: Ph.D. Student 
 email: mingyang@umd.edu
 description: >-
-  I am a Ph.D student at [Google](https://ai.google/research/), where I work on photorealistic 3D reconstruction at internet scale.
+  I am a Ph.D student at the University of Maryland, College Park, where I work on computational imaging.
 
-
-  Previously, I was a Ph. D student at the [University of Washington](https://grail.cs.washington.edu/) advised by
+  Previously, I did my Bachelor degree at the [University of Washington](https://grail.cs.washington.edu/) advised by
   [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
   [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
+twitter_username: MingyangXie1
 github_username: mingyangx
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+google_scholar: 37dscrUAAAAJ
+linkedin_username: mingyangx
+# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
