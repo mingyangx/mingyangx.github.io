@@ -27,7 +27,6 @@ description: >-
 #   advised by [Prof. Christopher Metzler](http://www.cs.umd.edu/~metzler/). 
 #   Previously, I did my Bachelor degree at [Washington University in St. Louis](https://wustl.edu/), advised by [Ulugbek Kamilov](https://cigroup.wustl.edu/) and [Brendt Wohlberg](https://brendt.wohlberg.net/).
 # where I work on computational imaging.
-
   [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
   [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,7 +35,7 @@ twitter_username: MingyangXie1
 github_username: mingyangx
 google_scholar: 37dscrUAAAAJ
 linkedin_username: mingyangx
-cv: assets/cv.pdf
+# cv: assets/cv.pdf
 
 # add a link to my CV
 
