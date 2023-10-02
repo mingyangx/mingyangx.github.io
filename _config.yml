@@ -27,8 +27,8 @@ description: >-
 #   advised by [Prof. Christopher Metzler](http://www.cs.umd.edu/~metzler/). 
 #   Previously, I did my Bachelor degree at [Washington University in St. Louis](https://wustl.edu/), advised by [Ulugbek Kamilov](https://cigroup.wustl.edu/) and [Brendt Wohlberg](https://brendt.wohlberg.net/).
 # where I work on computational imaging.
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  # [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
+  # [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MingyangXie1
