@@ -35,10 +35,11 @@ description: >-
   # [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MingyangXie1
-github_username: mingyangx
+# twitter_username: MingyangXie1
+# github_username: mingyangx
 google_scholar: 37dscrUAAAAJ
 linkedin_username: mingyangx
+# email: mingyang@umd.edu
 # cv: assets/cv.pdf 这里只是变量而已，会被传到index.html
 
 # add a link to my CV
