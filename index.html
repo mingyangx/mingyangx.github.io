@@ -133,7 +133,6 @@ layout: null
 
         <div class="column">
           <div class="content">
-            <!-- <h3 class="publication-title">{{ publication.title }}</h3> -->
             <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
             <div class="publication-authors">
               {% for author_id in publication.authors %}
@@ -158,7 +157,6 @@ layout: null
             <p class="publication-description">{{ publication.description }}</p>
             <!-- Publication Links. -->
             <div class="publication-links buttons field has-addons">
-              <!-- {% if publication.project_page %} -->
               <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
                 <span class="icon"><i class="fas fa-globe-asia"></i></span>
                 <span>Project Page</span>
@@ -192,7 +190,7 @@ layout: null
       <div class="content footer-links has-text-centered">
 
         <!-- <a class="external-link" href="https://github.com/{{ site.github_username }}">
-          <i class="fab fa-github"></i>asdf
+          <i class="fab fa-github"></i>
         </a> -->
         <a class="external-link" href="assets/cv.pdf"> 
           <span>CV</span>
