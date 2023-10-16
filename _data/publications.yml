@@ -53,7 +53,7 @@
   venue: IEEE Transactions on Computational Imaging, 2021
   venue_url: https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging/about-tci
   description: "Learning the computed tomography measurement field by mapping the capturing angles to their responses using implicit neural representation."
-  image: calred_before.png
+  image: coil_2.png
   # image_mouseover: turbugan.mp4
   authors:
     - sunyu
@@ -80,22 +80,22 @@
     - ulugbek
   pdf: https://openaccess.thecvf.com/content/ICCV2021W/LCI/papers/Xie_Joint_Reconstruction_and_Calibration_Using_Regularization_by_Denoising_With_Application_ICCVW_2021_paper.pdf
 
-- id: proves
-  title: "PROVES: Establishing Image Provenance using Semantic Signatures"
-  venue: WACV, 2022
-  # venue_url: https://www.itsoc.org/jsait
-  description: "An image verification framework using semantic signing against deep fake attacks."
-  image: proves_before.png
-  # image_mouseover: turbugan.mp4
-  authors:
-    - mingyang
-    - manav
-    - shaojie
-    - jinghan
-    - ayan
-    - ning
-    - yevgeniy
-  pdf: https://openaccess.thecvf.com/content/WACV2022/papers/Xie_PROVES_Establishing_Image_Provenance_Using_Semantic_Signatures_WACV_2022_paper.pdf
+# - id: proves
+#   title: "PROVES: Establishing Image Provenance using Semantic Signatures"
+#   venue: WACV, 2022
+#   # venue_url: https://www.itsoc.org/jsait
+#   description: "Using semantic signing for image verification against deep fake attacks."
+#   image: proves_before.png
+#   # image_mouseover: turbugan.mp4
+#   authors:
+#     - mingyang
+#     - manav
+#     - shaojie
+#     - jinghan
+#     - ayan
+#     - ning
+#     - yevgeniy
+#   pdf: https://openaccess.thecvf.com/content/WACV2022/papers/Xie_PROVES_Establishing_Image_Provenance_Using_Semantic_Signatures_WACV_2022_paper.pdf
 
 
 # Mingyang Xie1
