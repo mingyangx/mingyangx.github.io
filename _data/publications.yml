@@ -1,17 +1,57 @@
 - id: polarhdr
   title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
   venue: Under Review, 2023
-  description: "A novel single-shot HDR imaging methodology with a polarization camera with 4dB improvement over software-only baselines."
+  description: "A novel single-shot HDR imaging methodology using a polarization camera, achieving 4dB improvement over software-only baselines."
   project_page: "https://intelligent-sensing.github.io/polarization-hdr/"
   arxiv: 2308.08094
-  image: camp_before.jpg
-  # image_mouseover: camp_after.mp4
+  image: polar_before.png
+  image_mouseover: polar_after.png
   authors:
-    - mingyang*
+    - mingyang*po
     - mattchan*
     - chris
   awards:
     - "ICCP 2023 Poster Demo"
+
+
+- id: polarhdr
+  title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
+  venue: Under Review, 2023
+  description: "A novel single-shot HDR imaging methodology using a polarization camera, achieving 4dB improvement over software-only baselines."
+  project_page: "https://intelligent-sensing.github.io/polarization-hdr/"
+  arxiv: 2308.08094
+  image: polar_before.png
+  image_mouseover: polar_after.png
+  authors:
+    - mingyang*po
+    - mattchan*
+    - chris
+  awards:
+    - "ICCP 2023 Poster Demo"
+
+
+- id: neuws
+  title: "NeuWS: Neural Wavefront Shaping for Guidestar-Free Imaging Through Static and Dynamic Scattering Media"
+  venue: Science Advances 2023
+  venue_url: https://www.science.org/journal/sciadv
+  description: "Neural signal representations enable breakthroughs in correcting for severe time-varying wavefront aberrations caused by scattering media."
+  image: neuws.jpg
+  image_mouseover: neuws.mp4
+  authors:
+    - brandonyfeng*
+    - haiyunguo*
+    - mingyang
+    - vivekb
+    - manojs
+    - ashokv
+    - metzler
+  pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
+  award: "Science.org Frontpage Cove"
+  award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
+
+
+
+
 
 # - id: hypernerf
 #   title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"

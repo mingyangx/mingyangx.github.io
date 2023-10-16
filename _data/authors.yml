@@ -30,6 +30,37 @@ chris:
   is_me: false
 
 
+haiyunguo*:
+  first_name: Haiyun
+  middle_name:
+  last_name: Guo*
+  website: https://scholar.google.com/citations?hl=en&user=HW0Ocj8AAAAJ
+
+vivekb:
+  first_name: Vivek
+  middle_name:
+  last_name: Boominathan
+  website: https://scholar.google.com/citations?hl=en&user=wwf-WgUAAAAJ
+
+manojs:
+  first_name: Manoj
+  middle_name: K.
+  last_name: Sharma
+  website: https://scholar.google.com/citations?hl=en&user=dZVUqPQAAAAJ
+
+ashokv:
+  first_name: Ashok
+  middle_name: 
+  last_name: Veeraraghavan
+  website: https://scholar.google.com/citations?user=tI-oUmsAAAAJ&hl=en
+
+brandonyfeng:
+  first_name: Brandon
+  middle_name: Y.
+  last_name: Feng
+  website: https://brandonyfeng.github.io/
+  
+
 keunhong:
   first_name: Keunhong
   last_name: Park*
