@@ -7,23 +7,7 @@
   image: polar_before.png
   image_mouseover: polar_after.png
   authors:
-    - mingyang*po
-    - mattchan*
-    - chris
-  awards:
-    - "ICCP 2023 Poster Demo"
-
-
-- id: polarhdr
-  title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
-  venue: Under Review, 2023
-  description: "A novel single-shot HDR imaging methodology using a polarization camera, achieving 4dB improvement over software-only baselines."
-  project_page: "https://intelligent-sensing.github.io/polarization-hdr/"
-  arxiv: 2308.08094
-  image: polar_before.png
-  image_mouseover: polar_after.png
-  authors:
-    - mingyang*po
+    - mingyang*
     - mattchan*
     - chris
   awards:
