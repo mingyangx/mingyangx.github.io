@@ -52,7 +52,7 @@
   venue: ICCV Workshop, 2021
   # venue_url: https://www.itsoc.org/jsait
   description: "Image reconstruction for computed tomography (CT) under mis-aligned projection angles."
-  image: calred.png
+  image: calred_before.png
   # image_mouseover: turbugan.mp4
   authors:
     - mingyang*
