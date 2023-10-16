@@ -84,7 +84,7 @@
   title: "PROVES: Establishing Image Provenance using Semantic Signatures"
   venue: WACV, 2022
   # venue_url: https://www.itsoc.org/jsait
-  # description: "Image reconstruction for computed tomography (CT) under mis-aligned projection angles."
+  description: "An image verification framework using semantic signing against deep fake attacks."
   image: proves_before.png
   # image_mouseover: turbugan.mp4
   authors:
