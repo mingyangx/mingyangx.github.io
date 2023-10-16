@@ -10,7 +10,7 @@
     - mingyang*
     - mattchan*
     - chris
-  awards:
+  award:
     - "ICCP 2023 Poster Demo"
   award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
 
@@ -32,7 +32,7 @@
     - chris
   pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
   github: Intelligent-Sensing/NeuWS
-  awards: "Science.org Frontpage Cover"
+  award: "Science.org Frontpage Cover"
   award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
 
 
