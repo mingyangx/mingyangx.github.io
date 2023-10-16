@@ -133,8 +133,8 @@ layout: null
 
         <div class="column">
           <div class="content">
-            <!-- <h3 class="publication-title">{{ publication.title }}</h3> -->
-            <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
+            <h3 class="publication-title">{{ publication.title }}</h3>
+            <!-- <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3> -->
             <div class="publication-authors">
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
@@ -192,10 +192,10 @@ layout: null
       <div class="content footer-links has-text-centered">
 
         <!-- <a class="external-link" href="https://github.com/{{ site.github_username }}">
-          <i class="fab fa-github"></i>
+          <i class="fab fa-github"></i>asdf
         </a> -->
         <a class="external-link" href="assets/cv.pdf"> 
-          <span>cv</span>
+          <span>CV</span>
         </a>
         <a class="external-link" href="https://www.linkedin.com/in/mingyangx/">
           <span class="icon"><i class="fab fa-linkedin"></i></span>
