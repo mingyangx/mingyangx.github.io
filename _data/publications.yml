@@ -73,7 +73,8 @@
   title: "Joint Reconstruction and Calibration Using Regularization by Denoising with Application to Computed Tomography"
   venue: ICCV Workshop, 2021
   venue_url: https://iccv2021.thecvf.com/home
-  description: "Reconstructing computed tomography (CT) images under mis-aligned projection angles using regularization by denoising."
+  description: "A regularization by denoising approach for image reconstruction tasks where there exist parametric uncertainties in the imaging forward model."
+  # description: "Reconstructing computed tomography (CT) images under mis-aligned projection angles using regularization by denoising."
   image: calred_before.png
   arxiv: 2011.13391
   # image_mouseover: turbugan.mp4
