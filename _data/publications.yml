@@ -89,22 +89,22 @@
   # image_mouseover: turbugan.mp4
   authors:
     - mingyang
-    - Manav Kulshrestha
-    - Shaojie Wang
-    - Jinghan Yang
-    - Ayan Chakrabarti
-    - Ning Zhang
-    - Yevgeniy Vorobeychik
+    - manav
+    - shaojie
+    - jinghan
+    - ayan
+    - ning
+    - yevgeniy
   pdf: https://openaccess.thecvf.com/content/WACV2022/papers/Xie_PROVES_Establishing_Image_Provenance_Using_Semantic_Signatures_WACV_2022_paper.pdf
 
 
-Mingyang Xie1
-, Manav Kulshrestha2
-, Shaojie Wang1
-, Jinghan Yang1
-Ayan Chakrabarti1
-, Ning Zhang1
-, and Yevgeniy Vorobeychik1
+# Mingyang Xie1
+# , Manav Kulshrestha2
+# , Shaojie Wang1
+# , Jinghan Yang1
+# Ayan Chakrabarti1
+# , Ning Zhang1
+# , and Yevgeniy Vorobeychik1
 
 # - id: hypernerf
 #   title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"

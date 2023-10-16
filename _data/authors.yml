@@ -99,8 +99,41 @@ ulugbek:
   last_name: Kamilov
   website: https://cigroup.wustl.edu/ulugbek-s-kamilov/
 
+manav:
+  first_name: Manav
+  middle_name: 
+  last_name: Kulshrestha
+  website: https://ideas.cs.purdue.edu/members/manav.html
 
+shaojie:
+  first_name: Shaojie
+  middle_name: 
+  last_name: Wang
+  # website: 
 
+jinghan:
+  first_name: Jinghan
+  middle_name: 
+  last_name: Yang
+  # website:
+
+ayan:
+  first_name: Ayan
+  middle_name: 
+  last_name: Chakrabarti
+  website:https://projects.ayanc.org/
+
+ning:
+  first_name: Ning
+  middle_name: 
+  last_name: Zhang
+  website:https://cybersecurity.seas.wustl.edu/ning/index.html
+
+yevgeniy:
+  first_name: Yevgeniy
+  middle_name: 
+  last_name: Vorobeychik
+  website:https://vorobeychik.com/
 
 keunhong:
   first_name: Keunhong
