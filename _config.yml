@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll!   asdfasdfasf
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -34,9 +34,9 @@ description: >-
   # [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
   # [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
 # twitter_username: MingyangXie1
-# github_username: mingyangx
+# github_username: mingyangx 
 google_scholar: 37dscrUAAAAJ
 linkedin_username: mingyangx
 # email: mingyang@umd.edu

@@ -4,6 +4,31 @@ mingyang:
   website: https://mingyangx.github.io
   is_me: true
 
+mingyang*:
+  first_name: Mingyang
+  last_name: Xie*
+  website: https://mingyangx.github.io
+  is_me: true
+
+mattchan:
+  first_name: Matthew
+  last_name: Chan
+  website: https://www.cs.umd.edu/~mattchan/
+  is_me: false
+
+
+mattchan*:
+  first_name: Matthew
+  last_name: Chan*
+  website: https://www.cs.umd.edu/~mattchan/
+  is_me: false
+
+chris:
+  first_name: Christopher
+  last_name: Metzler
+  website: https://www.cs.umd.edu/~metzler/
+  is_me: false
+
 
 keunhong:
   first_name: Keunhong
