@@ -114,10 +114,12 @@ layout: null
         </ul>
       </div> -->
 
-      <h2 class="title is-3">Publications</h2>               <span class="publication-venue-emph">
-        <a href="{{ publication.award_url }}" style="color: firebrick;" target="_blank">{{ publication.award }}</a>
+      <div >
+      <h2 class="title is-3">Publications</h2>               
+      <span class="publication-venue-emph">
+                <a href="{{ publication.award_url }}" style="color: firebrick;" target="_blank">{{ publication.award }}</a>
       </span>     
-
+      </div>
 
       {% for publication in site.data.publications %}
       <div class="publication-block columns">
