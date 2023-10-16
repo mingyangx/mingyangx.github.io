@@ -148,12 +148,21 @@ layout: null
               </span>
               {% endfor %}
             </div>
-            <div class="publication-venue">
+
+            <!-- <div class="publication-venue">
               <span>{{ publication.venue }}</span>
               {% for award in publication.awards %}
                 <span class="publication-venue-emph">{{ award }}<span>
               {% endfor %}
+            </div> -->
+
+            <div class="publication-venue">
+              <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
+              <span class="publication-venue-emph">
+                <a href="{{ publication.award_url }}" style="color: firebrick;">{{ publication.award }}</a>
+              </span>
             </div>
+
             <p class="publication-description">{{ publication.description }}</p>
             <!-- Publication Links. -->
             <div class="publication-links buttons field has-addons">

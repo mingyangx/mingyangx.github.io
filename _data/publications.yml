@@ -68,7 +68,7 @@
 - id: calred
   title: "Joint Reconstruction and Calibration Using Regularization by Denoising with Application to Computed Tomography"
   venue: ICCV Workshop, 2021
-  # venue_url: https://www.itsoc.org/jsait
+  venue_url: https://iccv2021.thecvf.com/home
   description: "Image reconstruction for computed tomography (CT) under mis-aligned projection angles."
   image: calred_before.png
   # image_mouseover: turbugan.mp4
@@ -83,7 +83,7 @@
 - id: proves
   title: "PROVES: Establishing Image Provenance using Semantic Signatures"
   venue: WACV, 2022
-  # venue_url: https://www.itsoc.org/jsait
+  venue_url: https://wacv2022.thecvf.com/home
   description: "Using semantic signing for image verification against deep fake attacks."
   image: proves_before.png
   # image_mouseover: turbugan.mp4
