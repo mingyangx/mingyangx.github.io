@@ -55,7 +55,7 @@
   title: "CoIL: Coordinate-Based Internal Learning for Tomographic Imaging"
   venue: IEEE Transactions on Computational Imaging, 2021
   venue_url: https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging/about-tci
-  description: "Learning the computed tomography measurement field by mapping the capturing angles to their responses using implicit neural representation."
+  description: "Learning the computed tomography measurement field by mapping X-ray angles to corresponding pixel values using implicit neural representation."
   image: coil_2.png
   arxiv: 2102.05181
   # image_mouseover: turbugan.mp4
