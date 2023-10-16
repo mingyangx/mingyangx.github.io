@@ -114,7 +114,7 @@ layout: null
         </ul>
       </div> -->
 
-      <h2 class="title is-3">Publications</h2> asdfasdf
+      <h2 class="title is-3">Publications</h2> 
 
       {% for publication in site.data.publications %}
       <div class="publication-block columns">
@@ -133,7 +133,8 @@ layout: null
 
         <div class="column">
           <div class="content">
-            <h3 class="publication-title"><a href="{{ publication.project_page }}" target="_blank">{{ publication.title }}</a></h3>
+            <!-- <h3 class="publication-title"><a href="{{ publication.project_page }}" target="_blank">{{ publication.title }}</a></h3> -->
+            <h3 class="publication-title">{{ publication.title }}</h3>
             <div class="publication-authors">
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
