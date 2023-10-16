@@ -142,8 +142,12 @@ layout: null
                 {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
                 endif %}
                 {% else %}
-                <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
-                  }}</a>{% if forloop.last == false %},{% endif %}
+                  {% if authors.website %}
+                  <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
+                    }}</a>{% if forloop.last == false %},{% endif %}
+                  {% else %}
+                  {{ author.first_name }} {{ author.middle_name }} {{ author.last_name }}{% if forloop.last == false %},{% endif %}
+                  {% endif %}
                 {% endif %}
               </span>
               {% endfor %}
@@ -210,7 +214,7 @@ layout: null
                 <span>arXiv</span>
               </a>
               {% endif %}
-              
+
               {% if publication.pdf %}
               <a class="external-link button is-small is-ghost" href="{{ publication.pdf }}">
                 <span class="icon"><i class="fas fa-file-pdf"></i></span>
