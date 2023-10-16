@@ -47,6 +47,21 @@
     - metzler
   pdf: https://ieeexplore.ieee.org/abstract/document/10012058
 
+- id: calred
+  title: "Joint Reconstruction and Calibration Using Regularization by Denoising with Application to Computed Tomography"
+  venue: ICCV Workshop, 2021
+  # venue_url: https://www.itsoc.org/jsait
+  description: "Image reconstruction for computed tomography (CT) under mis-aligned projection angles."
+  image: calred.png
+  # image_mouseover: turbugan.mp4
+  authors:
+    - mingyang*
+    - jiaming*
+    - sunyu
+    - brendt
+    - ulugbek
+  pdf: https://openaccess.thecvf.com/content/ICCV2021W/LCI/papers/Xie_Joint_Reconstruction_and_Calibration_Using_Regularization_by_Denoising_With_Application_ICCVW_2021_paper.pdf
+
 
 
 # - id: hypernerf
