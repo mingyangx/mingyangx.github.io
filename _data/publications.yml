@@ -5,7 +5,7 @@
   project_page: "https://intelligent-sensing.github.io/polarization-hdr/"
   arxiv: 2308.08094
   image: polar_before.png
-  image_mouseover: polar_after.png
+  # image_mouseover: polar_after.png
   authors:
     - mingyang*
     - mattchan*
