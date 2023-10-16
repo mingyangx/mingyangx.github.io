@@ -157,10 +157,10 @@ layout: null
             </div> -->
 
             <div class="publication-venue">
-              {% if publication.project_page %}
-              {{ publication.venue }}
-              {% else %}
+              {% if publication.venue_url %}
               <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
+              {% else %}
+              {{ publication.venue }}
               {% endif %}
               <span class="publication-venue-emph">
                 <a href="{{ publication.award_url }}" style="color: firebrick;">{{ publication.award }}</a>
@@ -203,11 +203,11 @@ layout: null
                 <span>In Print</span>
               </a>
               {% endif %}
-              {% if publication.arxiv %}
+              <!-- {% if publication.arxiv %}
               <a class="external-link button is-small is-ghost" href="https://arxiv.org/abs/{{ publication.arxiv }}">
                 <span class="icon"><i class="ai ai-arxiv"></i></span>
                 <span>arXiv</span>
-              </a>
+              </a> -->
               {% if publication.pdf %}
               <a class="external-link button is-small is-ghost" href="{{ publication.pdf }}">
                 <span class="icon"><i class="fas fa-file-pdf"></i></span>
