@@ -50,6 +50,18 @@
   award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
 
 
+- id: turbugan
+  title: "TurbuGAN: An Adversarial Learning Approach to Spatially-Varying Multiframe Blind Deconvolution with Applications to Imaging Through Turbulence"
+  venue: IEEE Journal on Selected Areas in Information Theory, 2022
+  venue_url: https://www.itsoc.org/jsait
+  description: "Training GAN only on blurry images from a single scene to recover a sharp image without estimating the blur kernels or acquiring a large labelled dataset."
+  image: turbugan.jpg
+  image_mouseover: turbugan.mp4
+  authors:
+    - brandonyfeng*
+    - mingyang*
+    - metzler
+  pdf: https://ieeexplore.ieee.org/abstract/document/10012058
 
 
 
