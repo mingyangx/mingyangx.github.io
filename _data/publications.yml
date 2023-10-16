@@ -47,6 +47,24 @@
     - metzler
   pdf: https://ieeexplore.ieee.org/abstract/document/10012058
 
+
+- id: coil
+  title: "CoIL: Coordinate-Based Internal Learning for Tomographic Imaging"
+  venue: IEEE Transactions on Computational Imaging, 2021
+  venue_url: https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging/about-tci
+  description: "Learning the computed tomography measurement field by mapping the capturing angles to their responses using implicit neural representation."
+  image: calred_before.png
+  # image_mouseover: turbugan.mp4
+  authors:
+    - sunyu
+    - jiaming
+    - mingyang
+    - brendt
+    - ulugbek
+  pdf: https://ieeexplore.ieee.org/document/9606601
+
+
+
 - id: calred
   title: "Joint Reconstruction and Calibration Using Regularization by Denoising with Application to Computed Tomography"
   venue: ICCV Workshop, 2021
