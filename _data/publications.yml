@@ -31,6 +31,7 @@
     - ashokv
     - chris
   pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
+  github: https://github.com/Intelligent-Sensing/NeuWS
   awards: "Science.org Frontpage Cover"
   award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
 
@@ -42,6 +43,7 @@
   description: "Training GAN only on blurry images from a single scene to recover a sharp image without estimating the blur kernels or acquiring a large labelled dataset."
   image: turbugan.jpg
   image_mouseover: turbugan.mp4
+  arxiv: 2203.06764
   authors:
     - brandonyfeng*
     - mingyang*
@@ -55,6 +57,7 @@
   venue_url: https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging/about-tci
   description: "Learning the computed tomography measurement field by mapping the capturing angles to their responses using implicit neural representation."
   image: coil_2.png
+  arxiv: 2102.05181
   # image_mouseover: turbugan.mp4
   authors:
     - sunyu
@@ -72,6 +75,7 @@
   venue_url: https://iccv2021.thecvf.com/home
   description: "Image reconstruction for computed tomography (CT) under mis-aligned projection angles."
   image: calred_before.png
+  arxiv: 2011.13391
   # image_mouseover: turbugan.mp4
   authors:
     - mingyang*
@@ -87,6 +91,7 @@
   venue_url: https://wacv2022.thecvf.com/home
   description: "Using semantic signing for image verification against deep fake attacks."
   image: proves_before.png
+  arxiv: 2110.11411
   # image_mouseover: turbugan.mp4
   authors:
     - mingyang
