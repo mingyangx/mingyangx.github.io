@@ -158,9 +158,9 @@ layout: null
 
             <div class="publication-venue">
               {% if publication.project_page %}
-              <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
-              {% else %}
               {{ publication.venue }}
+              {% else %}
+              <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
               {% endif %}
               <span class="publication-venue-emph">
                 <a href="{{ publication.award_url }}" style="color: firebrick;">{{ publication.award }}</a>
