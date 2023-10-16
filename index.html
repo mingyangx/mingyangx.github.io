@@ -165,7 +165,7 @@ layout: null
 
             <p class="publication-description">{{ publication.description }}</p>
             <!-- Publication Links. -->
-            <div class="publication-links buttons field has-addons">
+            <!-- <div class="publication-links buttons field has-addons">
               <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
                 <span class="icon"><i class="fas fa-globe-asia"></i></span>
                 <span>Project Page</span>
@@ -184,7 +184,40 @@ layout: null
                 <span>Code</span>
               </a>
               {% endif %}
+            </div> -->
+            <div class="publication-links buttons field has-addons">
+              {% if publication.project_page %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
+                <span class="icon"><i class="fa fa-globe"></i></span>
+                <span>Project Page</span>
+              </a>
+              {% endif %}
+
+              {% if publication.doi %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.doi }}">
+                <span class="icon"><i class="fa fa-book" aria-hidden="true"></i></span>
+                <span>In Print</span>
+              </a>
+              {% endif %}
+
+              {% if publication.pdf %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.pdf }}">
+                <span class="icon"><i class="fa fa-file-pdf-o"></i></span>
+                <span>PDF</span>
+              </a>
+              {% endif %}
+
+              {% if publication.github %}
+              <a class="external-link button is-small is-ghost" href="https://github.com/{{ publication.github }}">
+                <span class="icon"><i class="fa fab fa-github"></i></span>
+                <span>Code</span>
+              </a>
+              {% endif %}
             </div>
+
+
+
+
             <!--/ Publication Links. -->
           </div>
         </div>
