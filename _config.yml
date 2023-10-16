@@ -36,7 +36,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
 # twitter_username: MingyangXie1
-# github_username: mingyangx 
+# github_username: mingyangx   
 google_scholar: 37dscrUAAAAJ
 linkedin_username: mingyangx
 # email: mingyang@umd.edu
