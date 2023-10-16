@@ -80,7 +80,31 @@
     - ulugbek
   pdf: https://openaccess.thecvf.com/content/ICCV2021W/LCI/papers/Xie_Joint_Reconstruction_and_Calibration_Using_Regularization_by_Denoising_With_Application_ICCVW_2021_paper.pdf
 
+- id: proves
+  title: "PROVES: Establishing Image Provenance using Semantic Signatures"
+  venue: WACV, 2022
+  # venue_url: https://www.itsoc.org/jsait
+  # description: "Image reconstruction for computed tomography (CT) under mis-aligned projection angles."
+  image: proves_before.png
+  # image_mouseover: turbugan.mp4
+  authors:
+    - mingyang
+    - Manav Kulshrestha
+    - Shaojie Wang
+    - Jinghan Yang
+    - Ayan Chakrabarti
+    - Ning Zhang
+    - Yevgeniy Vorobeychik
+  pdf: https://openaccess.thecvf.com/content/WACV2022/papers/Xie_PROVES_Establishing_Image_Provenance_Using_Semantic_Signatures_WACV_2022_paper.pdf
 
+
+Mingyang Xie1
+, Manav Kulshrestha2
+, Shaojie Wang1
+, Jinghan Yang1
+Ayan Chakrabarti1
+, Ning Zhang1
+, and Yevgeniy Vorobeychik1
 
 # - id: hypernerf
 #   title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
