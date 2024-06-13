@@ -41,7 +41,7 @@ yiran:
   website: https://twizwei.github.io/
   is_me: false
 
-haoming:
+haoming*:
   first_name: Haoming
   last_name: Cai
   website: https://www.haomingcai.com/
@@ -51,6 +51,12 @@ sachin:
   first_name: Sachin
   last_name: Shah
   website: https://sachinshah.com/
+  is_me: false
+
+jiabin:
+  first_name: Jia-Bin
+  last_name: Huang
+  website: https://jbhuang0604.github.io/
   is_me: false
 
 
