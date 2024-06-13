@@ -1,4 +1,25 @@
-- id: polarhdr
+- id: wavemo
+  title: "WaveMo: Learning Wavefront Modulations to See Through Scattering"
+  venue: CVPR 2024
+  # venue_url: https://www.science.org/journal/sciadv
+  project_page: "https://wavemo-2024.github.io/"
+  description: "Learning optimal wavefront modulation patterns by using a "proxy" reconstruction network in an end-to-end fashion."
+  image: wavemo.jpg
+  # image_mouseover: neuws.mp4
+  authors:
+    - mingyang*
+    - haiyunguo*
+    - brandonyfeng
+    - lingbo
+    - ashokv
+    - chris
+  pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
+  # github: Intelligent-Sensing/NeuWS
+  # award: "Science.org Frontpage Cover"
+
+
+
+id: polarhdr
   title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
   venue: Under Review, 2023
   description: "A novel single-shot HDR imaging methodology using a polarization camera, achieving 4dB improvement over software-only baselines."

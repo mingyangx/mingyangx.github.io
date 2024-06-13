@@ -16,6 +16,12 @@ mattchan:
   website: https://www.cs.umd.edu/~mattchan/
   is_me: false
 
+lingbo:
+  first_name: Lingbo
+  last_name: Jin
+  website: https://lj19.blogs.rice.edu/
+  is_me: false
+
 
 mattchan*:
   first_name: Matthew
