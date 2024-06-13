@@ -46,7 +46,7 @@
 
 - id: polarhdr
   title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
-  venue: Under Review, 2023
+  venue: Preprint, 2023
   description: "A novel single-shot HDR imaging methodology using a polarization camera, achieving 4dB improvement over software-only baselines."
   project_page: "https://intelligent-sensing.github.io/polarization-hdr/"
   arxiv: 2308.08094
