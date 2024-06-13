@@ -1,7 +1,7 @@
 - id: wavemo
   title: "WaveMo: Learning Wavefront Modulations to See Through Scattering"
   venue: CVPR 2024
-  description: "Use a "proxy" reconstruction network to learn an optimal set of wavefront modulation patterns in an end-to-end fashion."
+  description: "Use a proxy reconstruction network to learn an optimal set of wavefront modulation patterns in an end-to-end fashion."
   project_page: "https://wavemo-2024.github.io/"
   arxiv: 2404.07985
   pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
