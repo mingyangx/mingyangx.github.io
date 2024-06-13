@@ -1,20 +1,3 @@
-- id: wavemo
-  title: "WaveMo: Learning Wavefront Modulations to See Through Scattering"
-  venue: CVPR 2024
-  description: "Learning optimal wavefront modulation patterns by using a "proxy" reconstruction network in an end-to-end fashion."
-  project_page: "https://wavemo-2024.github.io/"
-  image: wavemo.jpg
-  authors:
-    - mingyang*
-    - haiyunguo*
-    - brandonyfeng
-    - lingbo
-    - ashokv
-    - chris
-  pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
-  arxiv: 2404.07985
-
-
 - id: polarhdr
   title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
   venue: Under Review, 2023
