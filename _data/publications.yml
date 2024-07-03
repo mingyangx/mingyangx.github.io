@@ -1,6 +1,6 @@
 - id: flash
   title: "Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats"
-  venue: Under Review @ ECCV 2024
+  venue: ECCV 2024
   description: "We introduce a simple yet effective approach for separating transmitted and reflected 3D scenes by using Gaussian Splatting and unpaired flash and no-flash multi-view images."
   # project_page: "https://wavemo-2024.github.io/"
   # arxiv: 2404.07985
@@ -15,7 +15,7 @@
     - brandonyfeng
     - jiabin
     - chris
-  # venue_url: https://cvpr.thecvf.com/
+  venue_url: https://eccv.ecva.net/
   # award:
   #   - "ICCP 2023 Poster Demo"
   # award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
