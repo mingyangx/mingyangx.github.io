@@ -2,7 +2,7 @@
   title: "Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats"
   venue: ECCV 2024
   description: "We introduce a simple yet effective approach for separating transmitted and reflected 3D scenes by using Gaussian Splatting and unpaired flash and no-flash multi-view images."
-  # project_page: "https://wavemo-2024.github.io/"
+  project_page: "https://flash-splat.github.io/"
   # arxiv: 2404.07985
   # pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
   image: flash.jpg
