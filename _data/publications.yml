@@ -5,9 +5,9 @@
   # project_page: "https://flash-splat.github.io/"
   # arxiv: 2404.07985
   # pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
-  image: images/flash2d.png
+  image: flash2d.png
   # image_mouseover: polar_after.png
-  pdf: assets/cv.pdf
+  pdf: assets/flash-split.pdf
   authors:
     - mingyang*
     - tianfu*
