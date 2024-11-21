@@ -59,6 +59,12 @@ haoming*:
   website: https://www.haomingcai.com/
   is_me: false
 
+haoming:
+  first_name: Haoming
+  last_name: Cai
+  website: https://www.haomingcai.com/
+  is_me: false
+
 sachin:
   first_name: Sachin
   last_name: Shah
