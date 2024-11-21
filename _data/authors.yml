@@ -1,3 +1,15 @@
+tianfu*:
+  first_name: Tianfu
+  last_name: Wu*
+  website: https://tianfwang.github.io/
+  is_me: false
+
+tianfu:
+  first_name: Tianfu
+  last_name: Wu
+  website: https://tianfwang.github.io/
+  is_me: false
+
 mingyang:
   first_name: Mingyang
   last_name: Xie
