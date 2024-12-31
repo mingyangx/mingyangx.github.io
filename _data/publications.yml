@@ -9,8 +9,8 @@
   # image_mouseover: polar_after.png
   pdf: assets/flash-split.pdf
   authors:
-    - mingyang*
     - tianfu*
+    - mingyang*
     - haoming
     - sachin
     - chris
