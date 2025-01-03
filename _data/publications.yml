@@ -1,9 +1,9 @@
 - id: flash2d
-  title: "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Separation"
+  title: "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation"
   venue: Under Review at CVPR 2025
   description: "A diffusion-model-based approach for 2D reflection removal with latent-space separation."
   # project_page: "https://flash-splat.github.io/"
-  # arxiv: 2404.07985
+  arxiv: 2501.00637
   # pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
   image: flash2d.png
   # image_mouseover: polar_after.png
