@@ -1,6 +1,6 @@
 - id: flash2d
   title: "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation"
-  venue: Under Review at CVPR 2025
+  venue: CVPR 2025
   description: "A diffusion-model-based approach for 2D reflection removal with latent-space separation."
   # project_page: "https://flash-splat.github.io/"
   arxiv: 2501.00637
@@ -14,7 +14,7 @@
     - haoming
     - sachin
     - chris
-  # venue_url: https://eccv.ecva.net/
+  venue_url: https://cvpr.thecvf.com/Conferences/2025
   # award:
   #   - "ICCP 2023 Poster Demo"
   # award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
