@@ -1,3 +1,25 @@
+- id: hallucination_correction
+  title: "Can Hallucination Correction Improve Video-Language Alignment?"
+  venue: ACL Findings 2025
+  description: "A diffusion-model-based approach for 2D reflection removal with latent-space separation."
+  # project_page: "https://flash-splat.github.io/"
+  arxiv: 2502.15079
+  # pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf
+  image: hallucination_correction.jpg
+  # image_mouseover: polar_after.png
+  # pdf: assets/flash-split.pdf
+  authors:
+    - lingjun
+    - mingyang
+    - paola
+    - hal
+    - kwonjoon
+  venue_url: https://aclanthology.org/venues/findings/
+  # award:
+  #   - "ICCP 2023 Poster Demo"
+  # award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
+
+
 - id: flash2d
   title: "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation"
   venue: CVPR 2025

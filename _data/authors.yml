@@ -1,15 +1,3 @@
-tianfu*:
-  first_name: Tianfu
-  last_name: Wang*
-  website: https://tianfwang.github.io/
-  is_me: false
-
-tianfu:
-  first_name: Tianfu
-  last_name: Wang
-  website: https://tianfwang.github.io/
-  is_me: false
-
 mingyang:
   first_name: Mingyang
   last_name: Xie
@@ -21,6 +9,44 @@ mingyang*:
   last_name: Xie*
   website: https://mingyangx.github.io
   is_me: true
+
+lingjun:
+  first_name: Lingjun
+  last_name: Zhao
+  website: https://lingjunzhao.github.io/
+  is_me: false
+
+
+paola:
+  first_name: Paola
+  last_name: Cascante-Bonilla
+  website: https://paolacascante.com/
+  is_me: false
+
+
+hal:
+  first_name: Hal
+  last_name: Daumé III
+  website: https://scholar.google.com/citations?user=PbEw81gAAAAJ&hl=en
+  is_me: false
+
+kwonjoon:
+  first_name: Kwonjoon
+  last_name: Lee
+  website: https://scholar.google.com/citations?user=C6Wu8M0AAAAJ&hl=en
+  is_me: false
+
+tianfu*:
+  first_name: Tianfu
+  last_name: Wang*
+  website: https://tianfwang.github.io/
+  is_me: false
+
+tianfu:
+  first_name: Tianfu
+  last_name: Wang
+  website: https://tianfwang.github.io/
+  is_me: false
 
 mattchan:
   first_name: Matthew
