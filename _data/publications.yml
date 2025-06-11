@@ -29,7 +29,7 @@
   pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Flash-Split_2D_Reflection_Removal_with_Flash_Cues_and_Latent_Diffusion_CVPR_2025_paper.pdf
   image: flash2d.png
   # image_mouseover: polar_after.png
-  pdf: assets/flash-split.pdf
+  # pdf: assets/flash-split.pdf
   authors:
     - tianfu*
     - mingyang*
