@@ -10,9 +10,9 @@ mingyang*:
   website: https://mingyangx.github.io
   is_me: true
 
-mingyang*:
+mingyang*†:
   first_name: Mingyang
-  last_name: Xie*†
+  last_name: Xie*<sup>†</sup>
   website: https://mingyangx.github.io
   is_me: true
 
