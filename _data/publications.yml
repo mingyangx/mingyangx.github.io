@@ -33,12 +33,12 @@
   authors:
     - tianfu*
     - mingyang*†
-    - haomingvvcccbkvnctvkjvdedcrnlttrchvliieirntbdgnhkeb
+    - haoming
     - sachin
     - chris
   venue_url: https://cvpr.thecvf.com/Conferences/2025
   award:
-    - "<sup><strong>†</strong></sup>Corresponding Author"
+    - "†Coressponding Author"
   # award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
 
 
