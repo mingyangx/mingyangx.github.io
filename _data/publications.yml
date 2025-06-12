@@ -16,7 +16,7 @@
     - kwonjoon
   venue_url: https://aclanthology.org/venues/findings/
   # award:
-  #   - "ICCP 2023 Poster Demo"
+  #   - "Corresponding Author"
   # award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
 
 
@@ -24,7 +24,7 @@
   title: "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation"
   venue: CVPR 2025
   description: "A diffusion-model-based approach for 2D reflection removal with latent-space separation."
-  # project_page: "https://flash-splat.github.io/"
+  project_page: "https://flash-split.github.io/"
   # arxiv: 2501.00637
   pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Flash-Split_2D_Reflection_Removal_with_Flash_Cues_and_Latent_Diffusion_CVPR_2025_paper.pdf
   image: flash2d.png
@@ -32,13 +32,13 @@
   # pdf: assets/flash-split.pdf
   authors:
     - tianfu*
-    - mingyang*
+    - mingyang*†
     - haomingvvcccbkvnctvkjvdedcrnlttrchvliieirntbdgnhkeb
     - sachin
     - chris
   venue_url: https://cvpr.thecvf.com/Conferences/2025
-  # award:
-  #   - "ICCP 2023 Poster Demo"
+  award:
+    - "Corresponding Author"
   # award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
 
 
