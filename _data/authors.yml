@@ -12,7 +12,7 @@ mingyang*:
 
 mingyang*†:
   first_name: Mingyang
-  last_name: Xie*<sup style="color: firebrick;"><strong>†</strong></sup>
+  last_name: Xie*<sup><strong>†</strong></sup>
   # last_name: Xie*<sup><strong>†</strong></sup>
   website: https://mingyangx.github.io
   is_me: true
